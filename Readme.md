@@ -14,5 +14,5 @@ Values marked by *X are filled from cell on the left from the marked value. Use 
 ##Usage: 
 
 
-python HLAConvert <your datafile> <NMDP allele code file> <CWD2.0 file> <output filename>
+python HLAConvert your_datafile NMDP_allele_code_file CWD2.0_file output_filename
 Examples of file formats are provided in the repo.
